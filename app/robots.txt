@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Allow: /
+Sitemap: https://bokepbelakang.pages.dev/sitemap.xml
